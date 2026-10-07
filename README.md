@@ -11,3 +11,7 @@ KicertShow 的個人網站起始專案，以原生 HTML 與 CSS 製作，無需�
 - 編輯 `index.html` 的自我介紹、作品卡片與聯絡方式。
 - 在 `styles.css` 調整配色、字級與版面。
 - 發布前請替換範例文字，並確認公開的聯絡資訊符合你的預期。
+
+
+
+asdasdasdsa
